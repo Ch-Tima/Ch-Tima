@@ -1,20 +1,20 @@
-
 <h2 align="center">Hi there 👋</h2>
 
 <h3> :hammer_and_wrench: Languages and Tools :</h3>
 <div align="center">
-  <img src="images/csharp.svg" width="65" height="65">
-  <img src="images/net.svg" width="65" height="65">
-  <img src="images/visualstudio.svg" width="65" height="65">
-  <img src="images/angularjs.svg" width="65" height="65">
-  <img src="images/html.svg" width="65" height="65">
-  <img src="images/css.svg" width="65" height="65">
-  <img src="images/js.svg" width="65" height="65">
-  <img src="images/android.svg" width="65" height="65">
+  <img src="images/csharp.svg" width="55" height="55">
+  <img src="images/net.svg" width="55" height="55">
+  <img src="images/visualstudio.svg" width="55" height="55">
+  <img src="images/angularjs.svg" width="55" height="55">
+  <img src="images/html.svg" width="55" height="55">
+  <img src="images/css.svg" width="55" height="55">
+  <img src="images/js.svg" width="55" height="55">
+  <img src="images/android.svg" width="55" height="55">
+  <img src="images/androidstudio.svg" width="55" height="55">
 </div>
 
 
-<h2>:fire: My Stats:</h2> 
+<h3>:fire: My Stats:</h3> 
 
 <div  align="center">
   <div>
