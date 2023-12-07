@@ -1,6 +1,7 @@
 <h2 align="center">Hi there 👋</h2>
 
-<h3> :hammer_and_wrench: Languages and Tools :</h3>
+### 🛠️Languages and Tools:
+
 <div align="center">
   <img src="images/csharp.svg" width="55" height="55">
   <img src="images/net.svg" width="55" height="55">
@@ -13,8 +14,7 @@
   <img src="images/androidstudio.svg" width="55" height="55">
 </div>
 
-
-<h3>:fire: My Stats:</h3> 
+### 🔥My Stats: 
 
 <div  align="center">
   <div>
